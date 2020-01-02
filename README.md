@@ -1,6 +1,6 @@
 # QT_MUSIC
 音樂
-
+windows qt 5.13
 
 qt音樂播放器
 
