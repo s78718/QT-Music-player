@@ -1,3 +1,4 @@
+![image](https://github.com/s78718/QT_MUSIC/blob/qt_music_win/qt_image.png)
 # QT_MUSIC
 音樂
 windows qt 5.13
